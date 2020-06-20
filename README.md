@@ -24,6 +24,8 @@
     * 源码
         * [源码阅读工具](https://www.zhihu.com/question/27821340?sort=created)
         * stackblitz: https://stackblitz.com/docs
+        * tools
+          * chrome plugin: File Icon for GitHub and GitLab
     * IDE: vscode
         * [VSCode 的基本使用视频教程](https://devopen.club/course/vscode)
         * [vscode 插件0 Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
