@@ -27,6 +27,7 @@
     * [vscode & iterm2 & Chrome 配置等](https://juejin.im/post/5d0e532d6fb9a07eec59d3bb#heading-0)
     * [node.green](https://node.green/)，查询 NodeJS 的 ES2018 特性支持情况
     * [Webpack config tool，webpack 配置工具](https://createapp.dev/) beta
+    * [variable names](https://unbug.github.io/codelf/)
     * 应用
       * GIPHY CAPTURE: GIF
       * TO DO: 任务管理
@@ -34,10 +35,18 @@
       * Markdown editor
       * postman
       * Github desktop
+      * HazeOver
     * Chrome 插件
       * GitHub Hovercard
+      * GitZip
       * Sourcegraph
       * Octotree
+      * OneTab
+      * SimpRead
+      * 书签侧边栏
+      * Pinbox - 跨平台收藏 (chrome plugin & app)
+      * Timer 25
+      * New Tab Studio: 倒計時，習慣，背景: 颜值很高的背景
     * 源码
         * [源码阅读工具](https://www.zhihu.com/question/27821340?sort=created)
         * stackblitz: https://stackblitz.com/docs
@@ -55,6 +64,9 @@
         * [vscode debug](https://zhuanlan.zhihu.com/p/54861567)
         * [vscode debug: Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
         * [mind in vscode](https://zhuanlan.zhihu.com/p/94184399)
+        * javascript console utils  Cmd+Shift+L
+        * Ascii Tree Generator
+        * Node JSON Autocomplete
         * vscode list
             * ​Quokka / Code Runner / Real-Time Debugging / Open-In-Browser / Live Server / REST Client / vscode-faker / Regex Previewer / npm Intellisense / Git History / GitLens / Debugger for Chrome
             * Draw.io te / vscode-blink-mind / SVG Viewer / Icon Fonts / Bracket Pair /  Colorizer  / Trailing Spaces / Indent-Rainbow / Power Mode / markdownlint
