@@ -17,13 +17,21 @@
     * [汇总1](https://github.com/stanzhai/be-a-professional-programmer)
     * [汇总2](https://github.com/ConardLi/ConardLi.github.io)
 
-
 * 工具
     * [装了啥 2019 版](https://juejin.im/post/5c9446e36fb9a071082f5118)
+    * [30 seconds of code](https://www.30secondsofcode.org/) 代码片段
+    * [HackMD，在线笔记，有 PPT 展示功能](https://hackmd.io/recent)
+    * [Slides，PPT 制作](https://slides.com/)
+    * [CodeSandbox](https://codesandbox.io/) + [glitch](https://glitch.com/) + [repl.it](https://repl.it/) 在线代码编辑，前者支持 sandbox container，可以跑 npm scripts
     * [vscode & iterm2 & Chrome 配置等](https://juejin.im/post/5d0e532d6fb9a07eec59d3bb#heading-0)
+    * [node.green](https://node.green/)，查询 NodeJS 的 ES2018 特性支持情况
+    * [Webpack config tool，webpack 配置工具](https://createapp.dev/) beta
     * 源码
         * [源码阅读工具](https://www.zhihu.com/question/27821340?sort=created)
         * stackblitz: https://stackblitz.com/docs
+        * [ghub.io](http://ghub.io/) redirect to an npm package's repository page unpkg
+        * [unpkg](https://unpkg.com/) npm 包的 cdn 服务，可以查看 npm 包发布后的内容
+        * [carbon](https://carbon.now.sh/) 根据源码生成图片
         * tools
           * chrome plugin: File Icon for GitHub and GitLab
     * IDE: vscode
