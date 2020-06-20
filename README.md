@@ -20,10 +20,27 @@
 
 * 工具
     * [装了啥 2019 版](https://juejin.im/post/5c9446e36fb9a071082f5118)
-    * [源码阅读工具](https://www.zhihu.com/question/27821340?sort=created)
     * [vscode & iterm2 & Chrome 配置等](https://juejin.im/post/5d0e532d6fb9a07eec59d3bb#heading-0)
-    * [联调效率 paw](https://paw.cloud)
-    
+    * 源码
+        * [源码阅读工具](https://www.zhihu.com/question/27821340?sort=created)
+        * stackblitz: https://stackblitz.com/docs
+    * IDE: vscode
+        * [VSCode 的基本使用视频教程](https://devopen.club/course/vscode)
+        * [vscode 插件0 Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+        * [vscode 插件](https://zhuanlan.zhihu.com/p/27905838) Quokka (up)
+        * [vscode 插件2](https://zhuanlan.zhihu.com/p/40417719)
+        * [vscode 插件2](https://zhuanlan.zhihu.com/p/140895359) drawio
+        * [vscode debug](https://zhuanlan.zhihu.com/p/54861567)
+        * [vscode debug: Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+        * [mind in vscode](https://zhuanlan.zhihu.com/p/94184399)
+        * vscode list
+            * ​Quokka / Code Runner / Real-Time Debugging / Open-In-Browser / Live Server / REST Client / vscode-faker / Regex Previewer / npm Intellisense / Git History / GitLens / Debugger for Chrome
+            * Draw.io te / vscode-blink-mind / SVG Viewer / Icon Fonts / Bracket Pair /  Colorizer  / Trailing Spaces / Indent-Rainbow / Power Mode / markdownlint
+            * Import Cost / vscode-fileheader (ctrl+alt  +i)
+    * 联调
+        * [50 个 CHROME DEVELOPER TOOLS 必备技巧](https://devopen.club/course/chromedevtools)
+        * [联调效率 paw](https://paw.cloud)
+        * [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 * 职业发展
     * [todo](https://github.com/feishi20/blog/issues/200)
     * [todo](https://github.com/feishi20/blog/issues/200)
