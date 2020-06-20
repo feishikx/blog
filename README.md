@@ -61,6 +61,7 @@
 * 业界实践
     * [todo1]()
 * 读书计划&读书有感
+    * 搜书搜资源神器：[url](https://www.chaonengsou.com/) & [url](https://zhuanlan.zhihu.com/p/114282123)
     * [我的书单](https://github.com/feishi20/blog/issues/300)
 * 旅行
     * [旅行计划](https://github.com/feishi20/blog/issues/400)
